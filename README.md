@@ -1,12 +1,10 @@
-
-
 # RAG Chatbot (PDF/Excel)
 
 RAG Chatbot is a Python-based Retrieval-Augmented Generation (RAG) application that enables users to upload PDF or Excel files and interact with an AI assistant to answer questions based on the content of those documents.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Document Upload:** Supports PDF and Excel file uploads.
 - **Content Extraction:** Extracts and chunks content for efficient retrieval.
@@ -16,13 +14,13 @@ RAG Chatbot is a Python-based Retrieval-Augmented Generation (RAG) application t
 
 ---
 
-## 🧠 What is RAG?
+## What is RAG?
 
 Retrieval-Augmented Generation (RAG) combines information retrieval with generative AI. It retrieves relevant data chunks from your uploaded files and uses a language model to generate answers based on that data, ensuring responses are accurate and context-aware.
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Upload** a PDF or Excel file.
 2. **Extract & Chunk:** The app extracts text and splits it into manageable chunks.
@@ -32,7 +30,7 @@ Retrieval-Augmented Generation (RAG) combines information retrieval with generat
 
 ---
 
-## 🏆 Benefits
+## Benefits
 
 - Answers are grounded in your own documents.
 - Supports both OpenAI and local models (for privacy and cost savings).
@@ -41,7 +39,7 @@ Retrieval-Augmented Generation (RAG) combines information retrieval with generat
 
 ---
 
-## 📚 Technologies Used
+## Technologies Used
 
 - **Python 3.8+**
 - **Streamlit** (UI)
@@ -53,7 +51,7 @@ Retrieval-Augmented Generation (RAG) combines information retrieval with generat
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -80,13 +78,3 @@ Retrieval-Augmented Generation (RAG) combines information retrieval with generat
    ```
 
 ---
-
-## 🧪 Testing the CI Pipeline
-
-This line is a test change to trigger the CI pipeline: **CI Pipeline Test - 2025-10-06**
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
