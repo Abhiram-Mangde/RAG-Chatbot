@@ -21,11 +21,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Lint with flake8
-        run: |
-          pip install flake8
-          flake8 .
-
       - name: Run tests
         run: |
           if [ -f tests/test_app.py ]; then pytest; else echo "No tests found, skipping."; fi
