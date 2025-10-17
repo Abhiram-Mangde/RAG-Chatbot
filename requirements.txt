@@ -1,6 +1,8 @@
 streamlit
 openai
 langchain
-pypdf
+PyPDF2
 pandas
 faiss-cpu
+transformers
+python-dotenv
