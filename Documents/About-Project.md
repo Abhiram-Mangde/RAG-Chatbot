@@ -4,6 +4,9 @@
 
 The RAG Chatbot is a Retrieval-Augmented Generation (RAG) system designed to answer questions based on the contents of uploaded documents (PDF or Excel). It combines a vector database for semantic search with a large language model (LLM) to generate contextual and accurate responses grounded in the user-provided data.
 
+## High Level Flow
+![alt text](image-1.png)
+
 ## Components
 
 | Component               | Description                                                            |
